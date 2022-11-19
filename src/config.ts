@@ -4,7 +4,7 @@ export const SITE = {
   website: "https://note.5203.life/",
   author: "High U",
   desc: "ただただ自身のための公開ノート",
-  title: "Note",
+  title: "NOTE.5203.LIFE",
   ogImage: "default-og.png",
   lightAndDarkMode: true,
   postPerPage: 8,
