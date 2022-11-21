@@ -60,10 +60,6 @@ module.exports = {
     fontFamily: {
       body: [
         "Roboto Mono",
-        "Jost",
-        "Oswald",
-        "Red Hat Mono",
-        "Outfit",
         "Hiragino Sans",
         "ヒラギノ角ゴシック",
         "メイリオ",
