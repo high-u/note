@@ -14,8 +14,6 @@ description:
   Cloudflare Pages にデプロイしたら、Node.js のバージョンが古くて失敗した。ログを見たらデプロイに使用している Node.js のバージョンが古かった。
 ---
 
-# Cloudflare Pages にデプロイした
-
 ## 一発しくったのでその内容
 
 特にドキュメントも見ずに、Cloudflare にサインインして Pages から `Create a project` の `Connect to Git` でデプロイ処理まではいった。  
@@ -27,7 +25,7 @@ description:
   
 `Retry deployment` でもう一度処理してもらったら、OK だったよ。
   
-参考にさせてもらった記事
+## 参考にさせてもらった記事
 
 - [Cloudflare PagesでNode.jsのバージョンを指定する | DevelopersIO](https://dev.classmethod.jp/articles/cloudflare-pages-node-version/)
 - [Build configuration · Cloudflare Pages docs](https://developers.cloudflare.com/pages/platform/build-configuration)
